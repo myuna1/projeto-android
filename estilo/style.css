@@ -16,7 +16,7 @@
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', sans-serif;
-    --fonte-android: 'Android', sans-serif; 
+    --fonte-android: 'Android'; 
 }
 
 * {
@@ -56,7 +56,7 @@ header > p {
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.274);
-    margin-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 nav {
