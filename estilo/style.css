@@ -92,13 +92,13 @@ main{
 
 main h1{
     color: var(--cor5);
-    font-family: 'Android';
+    font-family: 'Android', sans-serif;
     font-weight: normal;
     font-size: 1.8em;
 }
 
 main h2{
-    font-family: 'Android';
+    font-family: 'Android', sans-serif;
     color: var(--cor4);
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
